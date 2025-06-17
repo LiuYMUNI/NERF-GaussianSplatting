@@ -6,6 +6,11 @@ This repository contains Yumao Liu's personal learning notes and practical explo
 
 The goal is to develop a deep, hands-on understanding of both the mathematics and implementation details behind modern neural scene representation and rendering.
 
+<p align="center">
+  <img src="img.png" width="85%"><br>
+  <b>NeRF vs 3D Gaussian Splatting</b>
+</p>
+
 ## Contents
 
 - [`nerf_from_nothing/`](./nerf_from_nothing/):  
